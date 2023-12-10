@@ -44,7 +44,6 @@ Cross-validation techniques can also be employed to assess the model's generaliz
 The trained models can then be used to make predictions or generate insights. For instance, a well-trained time series model could forecast the future trajectory of COVID-19 cases, helping governments and healthcare organizations prepare for potential surges.
 Moreover, feature importance analysis can highlight which factors have the most significant influence on the outcomes. This information is invaluable for decision-makers seeking to allocate resources effectively and implement targeted interventions.
 
-![image](https://github.com/vijayasrichinta2609/COVIDCaseAnalysis/assets/153414824/6b07c2e7-b4d7-40d7-99af-31d98c79922d)
 
 ![cov-3](https://github.com/vijayasrichinta2609/COVIDCaseAnalysis/assets/153414824/2e3656ec-3b4a-4736-9374-67876cdfef68)
 ![cov-2](https://github.com/vijayasrichinta2609/COVIDCaseAnalysis/assets/153414824/f77b0b67-8e57-4559-adf3-99e887b0e752)
@@ -53,6 +52,4 @@ Moreover, feature importance analysis can highlight which factors have the most 
 
 Conclusion:
 In conclusion, this semester project covered key aspects of analyzing the COVID-19 pandemic using machine learning techniques. Data preprocessing and exploration provided insights into the dataset, its variables, and distribution. The application of various machine learning models, including regression, time series analysis, classification, and clustering, offered valuable predictions and patterns. Through visualizations, we grasped the relationship between variables like Total Cases and Total Deaths, identified hotspots, and understood correlations through the heatmap. The project emphasized the significance of proper data preprocessing to enhance model accuracy.The predictive power of machine learning models showcased their potential in understanding the pandemic's progression. The project also highlighted the importance of model evaluation and the need to balance predictive findings with real-world insights.In essence, this project demonstrated how machine learning can be a powerful tool to comprehend and potentially forecast pandemic trends, contributing to informed decision-making and public health strategies.
-
-![image](https://github.com/vijayasrichinta2609/COVIDCaseAnalysis/assets/153414824/0c2b1920-e7bc-428a-a84b-2562c5eb6d78)
 
