@@ -3,6 +3,7 @@
 The COVID-19 pandemic has had a profound impact on global health, economies, and societies. In this semester project, we leverage machine learning techniques to analyze and gain insights from COVID-19 data. Our dataset, sourced from ‘covid_data.csv’, encompasses various aspects of the pandemic across different countries and regions. We explore the dataset through data visualization, uncovering patterns and correlations among key metrics. Moreover, we apply machine learning algorithms to predict future trends, providing a glimpse into potential scenarios. This project aims to contribute to our understanding of the pandemic's trajectory and its implications.
 Introduction:
 The outbreak of COVID-19, first identified in late 2019, escalated into a worldwide pandemic. To comprehend the virus's spread and potential consequences, data analysis plays a pivotal role. This project focuses on analyzing a comprehensive dataset containing COVID-19 cases, deaths, recoveries, and related variables. By applying machine learning methodologies, we seek to unravel patterns, correlations, and predictions that shed light on the pandemic's trajectory. Our project's objectives include:
+
 •	Analyzing the distribution of Total Cases and Total Deaths.
 
 •	Identifying the top 10 countries with the highest Total Cases.
