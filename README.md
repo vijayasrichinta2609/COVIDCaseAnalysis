@@ -4,8 +4,11 @@ The COVID-19 pandemic has had a profound impact on global health, economies, and
 Introduction:
 The outbreak of COVID-19, first identified in late 2019, escalated into a worldwide pandemic. To comprehend the virus's spread and potential consequences, data analysis plays a pivotal role. This project focuses on analyzing a comprehensive dataset containing COVID-19 cases, deaths, recoveries, and related variables. By applying machine learning methodologies, we seek to unravel patterns, correlations, and predictions that shed light on the pandemic's trajectory. Our project's objectives include:
 •	Analyzing the distribution of Total Cases and Total Deaths.
+
 •	Identifying the top 10 countries with the highest Total Cases.
+
 •	Exploring correlations between different COVID-19 metrics using a correlation matrix.
+
 •	Applying machine learning algorithms to predict future.
 
 # Data Preprocessing and Exploration:
