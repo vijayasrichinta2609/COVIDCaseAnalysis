@@ -1,6 +1,6 @@
 # Predicting COVID-19 Cases Using Machine Learning
                                                                                                                                 
-The COVID-19 pandemic has had a profound impact on global health, economies, and societies. In this semester project, we leverage machine learning techniques to analyze and gain insights from COVID-19 data. Our dataset, sourced from ‘covid_data.csv’, encompasses various aspects of the pandemic across different countries and regions. We explore the dataset through data visualization, uncovering patterns and correlations among key metrics. Moreover, we apply machine learning algorithms to predict future trends, providing a glimpse into potential scenarios. This project aims to contribute to our understanding of the pandemic's trajectory and its implications.
+The COVID-19 pandemic has had a profound impact on global health, economies, and societies. In this project, we leverage machine learning techniques to analyze and gain insights from COVID-19 data. The current dataset, sourced from ‘covid_data.csv’, encompasses various aspects of the pandemic across different countries and regions. We explore the dataset through data visualization, uncovering patterns and correlations among key metrics. Moreover, we apply machine learning algorithms to predict future trends, providing a glimpse into potential scenarios. This project aims to contribute to my understanding of the pandemic's trajectory and its implications.
 
 # Introduction:
 
@@ -18,7 +18,7 @@ The outbreak of COVID-19, first identified in late 2019, escalated into a worldw
 
 # Data Preprocessing and Exploration:
 
-1.Data Loading and Cleaning:
+1. Data Loading and Cleaning:
 
 The foundation of any data analysis project lies in the quality and integrity of the dataset. In this section, we detail the steps taken to load and pre-process the COVID-19 dataset, ensuring its suitability for subsequent analysis.
 The dataset was loaded using the Pandas library in Python, which provides powerful tools for data manipulation and analysis. The dataset contains various attributes such as Country/Region, Continent, Population, Total Cases, New Cases, Total Deaths, New Deaths, Total Recovered, New Recovered, Active Cases, Serious Critical, Total Cases/1M pop, Deaths/1M pop, Total Tests, Tests/1M pop, and WHO Region.
@@ -82,5 +82,5 @@ Moreover, feature importance analysis can highlight which factors have the most 
 
 # Conclusion:
 
-In conclusion, this semester project covered key aspects of analyzing the COVID-19 pandemic using machine learning techniques. Data preprocessing and exploration provided insights into the dataset, its variables, and distribution. The application of various machine learning models, including regression, time series analysis, classification, and clustering, offered valuable predictions and patterns. Through visualizations, we grasped the relationship between variables like Total Cases and Total Deaths, identified hotspots, and understood correlations through the heatmap. The project emphasized the significance of proper data preprocessing to enhance model accuracy.The predictive power of machine learning models showcased their potential in understanding the pandemic's progression. The project also highlighted the importance of model evaluation and the need to balance predictive findings with real-world insights.In essence, this project demonstrated how machine learning can be a powerful tool to comprehend and potentially forecast pandemic trends, contributing to informed decision-making and public health strategies.
+In conclusion, this project covered key aspects of analyzing the COVID-19 pandemic using machine learning techniques. Data preprocessing and exploration provided insights into the dataset, its variables, and distribution. The application of various machine learning models, including regression, time series analysis, classification, and clustering, offered valuable predictions and patterns. Through visualizations, we grasped the relationship between variables like Total Cases and Total Deaths, identified hotspots, and understood correlations through the heatmap. The project emphasized the significance of proper data preprocessing to enhance model accuracy.The predictive power of machine learning models showcased their potential in understanding the pandemic's progression. The project also highlighted the importance of model evaluation and the need to balance predictive findings with real-world insights.In essence, this project demonstrated how machine learning can be a powerful tool to comprehend and potentially forecast pandemic trends, contributing to informed decision-making and public health strategies.
 
