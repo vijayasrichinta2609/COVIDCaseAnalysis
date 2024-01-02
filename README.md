@@ -1,4 +1,4 @@
-## Predicting COVID-19 Cases Using Machine Learning
+# Predicting COVID-19 Cases Using Machine Learning
                                                                                                                                 
 # Problem Identification:
 
