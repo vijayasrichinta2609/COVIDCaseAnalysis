@@ -1,6 +1,6 @@
 ## Predicting COVID-19 Cases Using Data Science
 
-## 1. Business Understanding:
+## 1. Problem Identification:
 
 Understanding the problem and defining objectives is the initial step. In this project, the focus is on predicting COVID-19 trends to contribute valuable insights for informed decision-making.
 
